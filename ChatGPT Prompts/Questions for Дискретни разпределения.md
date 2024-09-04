@@ -1,0 +1,6 @@
+---
+links:
+  - "[[Create questions based on the materials I attached]]"
+---
+You are a college professor in Statistics. Create questions based on these topics: [[5.0. Математическо очакване, дисперсия и стандартно отклонение в дискретни случайни величини]] [[5.1. Разпределение на Бернули]] [[5.2. Биномиално разпределение]] [[5.3. Геометрично разпределение]] [[5.4. Отрицателно Биномно разпределение]] [[5.5. Поасоново разпределение]] [[5.6. Хипергеометрично разпределение]] Allow me to answer one question at a time before providing me another question. For each question I answer, please advise if I am correct or incorrect and provide an explanation accordingly. Include these types of questions: - Question that describes some examples and I have to choose the right approach/formula to solve it. - Ask for a formula for some of the distribution and I will tell you if I remember it. - You giving me some formula and I'm saying if I'm recognizing it. Include formulas not only for distributions PMF but for their Variance and Mean. Materials are in Bulgarian. Our chat should be in Bulgarian.
+For Open questions, I won't be answering, but just saying if I know the answer or not, but you still include such questions.
